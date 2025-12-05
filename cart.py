@@ -33,8 +33,8 @@ def crear_pdf_cartas(lista_cartas, archivo_salida="cartas.pdf"):
     ancho_pagina, alto_pagina = A4
 
     # Tamaño exacto de carta
-    ancho_carta = 63.5 * mm
-    alto_carta = 88 * mm
+    ancho_carta = 66.5 * mm
+    alto_carta = 92.8 * mm
 
     cartas_por_fila = 3
     filas_por_pagina = 3
